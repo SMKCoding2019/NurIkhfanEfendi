@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "648748399305",
+    "firebase_url": "https://donasi-id.firebaseio.com",
+    "project_id": "donasi-id",
+    "storage_bucket": "donasi-id.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:648748399305:android:40c0facf92a86ea2",
+        "android_client_info": {
+          "package_name": "com.company.donasiId"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "648748399305-05d8ftn44ksuclbslgkrp6r9ffkmdgf4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.company.donasiId",
+            "certificate_hash": "bbe61fca783b0190696bb39a1667dd211b3e7c55"
+          }
+        },
+        {
+          "client_id": "648748399305-1oncunt453s8t4jmgub76964thik8fpr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDevvxB0ooSJxF2fQYD0mmOApOwmcJd8l4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "648748399305-1oncunt453s8t4jmgub76964thik8fpr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
